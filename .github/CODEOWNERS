@@ -1,0 +1,3 @@
+# Description: Implement fixed cross-review via file ownership rules and branch protection enforcement
+# Global baseline configuration: All code changes are assigned to A, B and C as default reviewers
+*  @Cheney-X @cheneyxchang
