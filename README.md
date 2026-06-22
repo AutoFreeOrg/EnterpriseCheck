@@ -1,9 +1,3 @@
 # EnterpriseCheck
 
-# Setting
-
-# Change for review
-
-# Auto assigned review person
-
-# end
+# Demo for 1st commit for PR flowchart
